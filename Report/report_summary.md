@@ -4,7 +4,7 @@
 
 ### Intern Details
 
-- Name: Yashvardhan Rajput
+- Name: Yashvardhan Patel
 - Domain: Cyber Security
 - Task: Task 02
 - Project: Phishing Email Detection & Awareness System
