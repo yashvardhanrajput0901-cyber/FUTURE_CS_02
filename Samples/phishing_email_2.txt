@@ -1,1 +1,21 @@
+From: Microsoft Account Team <support@micr0soft-security.com>
+To: employee@company.com
+Subject: Your Microsoft 365 Password Will Expire Today
+Date: Tue, 20 May 2026 14:42:51 +0000
 
+Dear User,
+
+Your Microsoft 365 password is scheduled to expire today.
+
+To avoid interruption of email access and company services, please reset your password immediately using the secure portal below:
+
+https://microsoft365-password-reset-security.net
+
+If you do not update your password within 12 hours, your mailbox may be disabled temporarily.
+
+Thank you,
+Microsoft 365 Security Department
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052
