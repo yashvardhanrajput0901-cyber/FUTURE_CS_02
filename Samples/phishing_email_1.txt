@@ -1,15 +1,23 @@
-Subject: Urgent Account Verification Required
+From: PayPal Security <security@paypa1-support.com>
+To: user@example.com
+Subject: Action Required: Suspicious Login Attempt Detected
+Date: Tue, 20 May 2026 09:14:22 +0000
 
 Dear Customer,
 
-We detected unusual activity on your PayPal account. Your account will be temporarily suspended unless you verify your information immediately.
+We detected an unusual login attempt on your PayPal account from an unrecognized device located in Singapore.
 
-Please click the secure link below to restore access:
+For your protection, we have temporarily limited access to your account until your identity is verified.
 
-http://paypal-secure-login.xyz/verify
+Please confirm your account information immediately using the secure verification portal below:
 
-Failure to verify within 24 hours may result in permanent account suspension.
+https://paypal-account-verify-secure.com/login
 
-Thank you,
-PayPal Security Team
-support@paypa1-security.com
+Failure to complete verification within 24 hours may result in permanent account suspension.
+
+Thank you for choosing PayPal.
+
+Sincerely,
+PayPal Account Security Team
+
+© 2026 PayPal Inc. All rights reserved.
