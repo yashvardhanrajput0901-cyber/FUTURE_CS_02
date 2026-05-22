@@ -1,22 +1,56 @@
 # FUTURE_CS_02
 
-## Phishing Email Detection & Awareness System
+# Phishing Email Detection & Awareness System
 
-This project is part of the Future Interns Cyber Security Internship.
+## Internship
+Future Interns – Cyber Security Internship
 
-### Objective
-Analyze phishing emails, identify phishing indicators, classify threats, and provide awareness guidelines.
+## Intern Details
+- Name: Yashvardhan Rajput
+- Domain: Cyber Security
+- Task: Task 02 – Phishing Email Detection & Awareness System
 
-### Tools Used
-- Email Header Analyzer
+---
+
+# Project Objective
+
+The objective of this project is to analyze phishing emails, identify malicious indicators, classify email threats, and create awareness regarding phishing attacks.
+
+This project demonstrates practical phishing detection techniques, email threat analysis, risk assessment, and cybersecurity awareness documentation.
+
+---
+
+# Tools Used
+
+- MXToolbox Email Header Analyzer
+- Google Admin Toolbox
 - Browser DevTools
-- VirusTotal
 - GitHub
+- Canva
+- Kali Linux
 
-### Repository Structure
-- report/ → Final PDF Report
-- screenshots/ → Analysis screenshots
-- samples/ → Email samples
+---
 
-### Author
-Your Name
+# Features
+
+- Phishing email analysis
+- Email header investigation
+- Risk classification
+- URL inspection
+- Domain spoofing detection
+- Awareness and prevention guidelines
+
+---
+
+# Repository Structure
+
+```text
+FUTURE_CS_02/
+│
+├── Assets/
+├── Findings/
+├── Report/
+├── Screenshots/
+├── Samples/
+├── Awareness/
+└── README.md
