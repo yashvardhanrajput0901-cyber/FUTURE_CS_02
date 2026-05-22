@@ -1,0 +1,22 @@
+From: CEO Office <ceo.executive@company-directives.com>
+To: finance@company.com
+Subject: Confidential Vendor Payment Request
+Date: Wed, 21 May 2026 07:55:13 +0000
+
+Hello Finance Team,
+
+I am currently in a meeting and unable to access the corporate payment system directly.
+
+Please process an urgent vendor payment of ₹2,45,000 to the account details provided below.
+
+Beneficiary Name: Global Trading Solutions
+Bank: International Commercial Bank
+Account Number: XXXX-XXXX-9821
+
+This payment is confidential and must be completed before 2:00 PM today.
+
+Reply once the transfer has been completed.
+
+Regards,
+Rajiv Sharma
+Chief Executive Officer
