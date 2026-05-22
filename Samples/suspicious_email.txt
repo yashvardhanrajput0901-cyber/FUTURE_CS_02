@@ -1,1 +1,16 @@
+From: HR Department <hr-payroll@companybenefits.net>
+To: employee@company.com
+Subject: Updated Employee Compensation Document
+Date: Wed, 21 May 2026 08:18:10 +0000
 
+Hello,
+
+Please review the attached compensation revision document related to your updated salary structure for Q2 2026.
+
+Attachment:
+Employee_Salary_Revision.zip
+
+Kindly review and acknowledge the document before the end of the business day to avoid payroll processing delays.
+
+Best Regards,
+Human Resources Department
