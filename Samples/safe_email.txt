@@ -1,1 +1,21 @@
+From: GitHub <noreply@github.com>
+To: yashvardhan@example.com
+Subject: New Sign-in to Your GitHub Account
+Date: Wed, 21 May 2026 11:36:48 +0000
 
+Hello Yashvardhan,
+
+We noticed a new sign-in to your GitHub account from a recognized device.
+
+Device: Chrome on Windows
+Location: Madhya Pradesh, India
+IP Address: 103.xxx.xxx.xxx
+
+If this was you, no further action is required.
+
+If you do not recognize this activity, please secure your account immediately by resetting your password.
+
+Thank you,
+GitHub Security Team
+
+https://github.com/settings/security
