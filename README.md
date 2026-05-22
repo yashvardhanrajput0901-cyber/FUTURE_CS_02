@@ -6,7 +6,7 @@
 Future Interns – Cyber Security Internship
 
 ## Intern Details
-- Name: Yashvardhan Rajput
+- Name: Yashvardhan Patel
 - Domain: Cyber Security
 - Task: Task 02 – Phishing Email Detection & Awareness System
 
